@@ -3,20 +3,11 @@
 
     var express = require('express'),
         path = require('path'),
-        fs = require('fs'),
         logging = require(path.join(__dirname, './lib/express/logging')),
         mongoose = require('mongoose'),
         configuration = require(path.join(__dirname, './lib/configuration'));
 
     mongoose.connect(configuration.get('mongo:uri'));
-
-    var modelsPath = path.join(__dirname, './lib/models');
-
-    fs.readdirSync(modelsPath).forEach(function(file) {
-        if (/(.*)\.(js$|coffee$)/.test(file)) {
-            require(modelsPath + '/' + file);
-        }
-    });
 
     var app = express();
 
@@ -29,7 +20,13 @@
     app.configure(function() {
         app.use(express.static(path.join(__dirname, '../build')));
         app.use(express.static(path.join(__dirname, '../public')));
+        app.use(express.bodyParser());
         logging(app);
+
+        var Route = require('./lib/routes');
+
+        Route.configure(app);
+
         app.get('*', function(request, response) {
             response.sendfile(path.join(__dirname, '../public/index.html'));
         });

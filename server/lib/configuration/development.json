@@ -4,16 +4,9 @@
         "port": 35729
     },
     "express": {
-        "port": 8080
-    },
-    "facebook": {
-        "client_id": "595544040538871",
-        "client_secret": "cc698dd6bd6fff0c1dc21516ad995c53"
+        "port": 8088
     },
     "mongo": {
-        "uri": "mongodb://localhost/recicla"
-    },
-    "upload": {
-        "dir" : "/tmp"
+        "uri": "mongodb://localhost/hospDataVis"
     }
 }

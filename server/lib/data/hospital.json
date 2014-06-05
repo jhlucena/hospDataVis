@@ -1,0 +1,1114 @@
+[
+    {
+        "name": "HOSP METROPOLITANO DR SUSONI",
+        "address": {
+            "street": "CALLE PALMA #55",
+            "city": "ARECIBO",
+            "zip": "00614"
+        },
+
+        "contactinfo": {
+            "tel": "787-650-1030",
+            "fax": "787-650-1040"
+        },
+
+        "location": {
+            "lat": 18.52914541,
+            "lng": -66.90343881
+        }
+    },
+    {
+        "name": "HOSP DR. CAYETANO COLL Y TOSTE",
+        "address": {
+            "street": "PR-129 KM 0.1 AVE. SAN LUIS",
+            "city": "ARECIBO",
+            "zip": "00613"
+        },
+        "contactinfo": {
+            "tel": "787-650-7272",
+            "fax": "787-650-7300"
+        },
+        "location": {
+            "lat": 18.52263324,
+            "lng": -66.91683823
+        }
+    },
+
+    {
+        "name": "PROFESSIONAL HOSP INC - SAN AGUSTIN",
+        "address": {
+            "street": "PR-2 KM 49.5 INTERSECCION 685",
+            "city": "MANATI",
+            "zip": "00960"
+        },
+        "contactinfo": {
+            "tel": "787-854-5090",
+            "fax": "787-854-6559"
+        },
+        "location": {
+            "lat": 18.42993074,
+            "lng": -66.49381811
+        }
+    },
+    {
+        "name": "HOSP GENERAL CASTANER INC",
+        "address": {
+            "street": "PR-135 KM 64.2",
+            "city": "LARES",
+            "zip": "00631-1003"
+        },
+        "contactinfo": {
+            "tel": "787-829-5010",
+            "fax": "787-829-2913"
+        },
+        "location": {
+            "lat": 18.18101307,
+            "lng": -66.83318175
+        }
+    },
+
+    {
+        "name": "DOCTORS CENTER HOSPITAL- MANATI",
+        "address": {
+            "street": "PR-2 KM 47.7",
+            "city": "MANATI",
+            "zip": "00674-0532"
+        },
+        "contactinfo": {
+            "tel": "787-621-3322",
+            "fax": "787-621-3372"
+        },
+        "location": {
+            "lat": 18.49368878,
+            "lng": -66.67269998
+        }
+    },
+    {
+        "name": "MANATI MEDICAL CENTER DR ALEJANDRO OTERO LOPEZ",
+        "address": {
+            "street": "CALLE HERNANDEZ CARRION 668",
+            "city": "MANATI",
+            "zip": "00674-1142"
+        },
+        "contactinfo": {
+            "tel": "787-621-3700",
+            "fax": "787-621-3710"
+        },
+        "location": {
+            "lat": 18.4941134,
+            "lng": -66.68106011
+        }
+    },
+    {
+        "name": "CSF - UTUADO",
+        "address": {
+            "street": "C/ISAAC GONZALEZ MARTINEZ",
+            "city": "UTUADO",
+            "zip": "00641-0590"
+        },
+        "contactinfo": {
+            "tel": "787-894-2875",
+            "fax": ""
+        },
+        "location": {
+            "lat": 18.31483052,
+            "lng": -66.8902354
+        }
+    },
+    {
+        "name": "INST MEDICO DEL NORTE INC, CENTRO MEDICO WILMA N VAZQUEZ",
+        "address": {
+            "street": "CARR. 2 KM. 39.5",
+            "city": "VEGA BAJA",
+            "zip": "00694"
+        },
+        "contactinfo": {
+            "tel": "787-858-1580",
+            "fax": "787-858-2385"
+        },
+        "location": {
+            "lat": 18.445866,
+            "lng": -66.378036
+        }
+    },
+    {
+        "name": "HOSP COMUNITARIO BUEN SAMARITANO INC",
+        "address": {
+            "street": "CARR 2 KM 141.1 AVE KENNEDY",
+            "city": "AGUADILLA",
+            "zip": "00605"
+        },
+        "contactinfo": {
+            "tel": "787-658-0000",
+            "fax": "787-658-0010"
+        },
+        "location": {
+            "lat": 18.44280934,
+            "lng": -67.15088511
+        }
+    },
+    {
+        "name": "HOSP SAN CARLOS BORROMEO",
+        "address": {
+            "street": "PR-110 KM 12.2 C/CONCEPCION VERA AYALA 555",
+            "city": "MOCA",
+            "zip": "00676-0068"
+        },
+        "contactinfo": {
+            "tel": "787-877-8000",
+            "fax": "787-877-5610"
+        },
+        "location": {
+            "lat": 18.39024075,
+            "lng": -67.10957643
+        }
+    },
+    {
+        "name": "METROPOLITANO PSIQUIATRICO DE CABO ROJO",
+        "address": {
+            "street": "CALLE MUÃ‘OZ RIVERA 108",
+            "city": "CABO ROJO",
+            "zip": "00623-0910"
+        },
+        "contactinfo": {
+            "tel": "787-851-2025",
+            "fax": "787-254-0235"
+        },
+        "location": {
+            "lat": 18.085743,
+            "lng": -67.147713
+        }
+    },
+    {
+        "name": "HOSP PEREA",
+        "address": {
+            "street": "CALLE DR BASORA 15",
+            "city": "MAYAGUEZ",
+            "zip": "00680"
+        },
+        "contactinfo": {
+            "tel": "787-834-0101",
+            "fax": "787-265-2455"
+        },
+        "location": {
+            "lat": 18.20252099,
+            "lng": -67.1399428
+        }
+    },
+
+    {
+        "name": "CLINICA ESPANOLA INC",
+        "address": {
+            "street": "PR-106 BO LA QUINTA - SECTOR CLINICA ESPANOLA",
+            "city": "MAYAGUEZ",
+            "zip": "00680"
+        },
+        "contactinfo": {
+            "tel": "787-832-0404",
+            "fax": "787-832-2094"
+        },
+        "location": {
+            "lat": 18.20615773,
+            "lng": -67.13146105
+        }
+    },
+    {
+        "name": "HOSP ADVANCED CARDIOLOGY DR RAMON EMETERIO BETANCES",
+        "address": {
+            "street": "PR-2 KM 15.7 AVE HOSTOS 410 CENTRO MEDICO",
+            "city": "MAYAGUEZ",
+            "zip": "00681-1838"
+        },
+        "contactinfo": {
+            "tel": "787-265-3900",
+            "fax": "787-265-3952"
+        },
+        "location": {
+            "lat": 18.18057656,
+            "lng": -67.15248566
+        }
+    },
+    {
+        "name": "HOSP BELLA VISTA",
+        "address": {
+            "street": "PR-349 KM 2.7 CERRO LAS MESAS",
+            "city": "MAYAGUEZ",
+            "zip": "00681"
+        },
+        "contactinfo": {
+            "tel": "787-834-2350",
+            "fax": "787-831-6315"
+        },
+        "location": {
+            "lat": 18.23515867,
+            "lng": -67.28209836
+        }
+    },
+    {
+        "name": "HOSP SAN ANTONIO INC",
+        "address": {
+            "street": "CALLE POST 18 NORTE",
+            "city": "MAYAGUEZ",
+            "zip": "00681"
+        },
+        "contactinfo": {
+            "tel": "787-834-0050",
+            "fax": "787-834-2104"
+        },
+        "location": {
+            "lat": 18.20306976,
+            "lng": -67.1406005
+        }
+    },
+    {
+        "name": "HOSP METROPOLITANO DE SAN GERMAN",
+        "address": {
+            "street": "CALLE JAVILLA 8",
+            "city": "SAN GERMAN",
+            "zip": "00683"
+        },
+        "contactinfo": {
+            "tel": "787-892-5300",
+            "fax": "787-892-1362"
+        },
+        "location": {
+            "lat": 18.08240106,
+            "lng": -67.03989543
+        }
+    },
+    {
+        "name": "HOSP DE LA CONCEPCION",
+        "address": {
+            "street": "CALLE LUNA 41 PR-2 KM 174.3 INTERIOR - BO CAIN ALTO",
+            "city": "SAN GERMAN",
+            "zip": "00683-0285"
+        },
+        "contactinfo": {
+            "tel": "787-892-1860",
+            "fax": "787-264-7908"
+        },
+        "location": {
+            "lat": 18.14727294,
+            "lng": -67.203386
+        }
+    },
+
+    {
+        "name": "HOSP LAFAYETTE",
+        "address": {
+            "street": "PR-753 KM 0.1 SECTOR CUATRO CALLES",
+            "city": "ARROYO",
+            "zip": "00714"
+        },
+        "contactinfo": {
+            "tel": "787-839-3232",
+            "fax": "787-271-0100"
+        },
+        "location": {
+            "lat": 18.04187589,
+            "lng": -66.27252362
+        }
+    },
+    {
+        "name": "CLINICA SANTA ROSA",
+        "address": {
+            "street": "PR-3 KM 135 AVE LOS VETERANOS H.7",
+            "city": "GUAYAMA",
+            "zip": "00785"
+        },
+        "contactinfo": {
+            "tel": "787-864-0101",
+            "fax": "787-866-0489"
+        },
+        "location": {
+            "lat": 17.98175126,
+            "lng": -66.10445291
+        }
+    },
+    {
+        "name": "HOSP EPISCOPAL CRISTO REDENTOR",
+        "address": {
+            "street": "AVE PEDRO ALBIZU CAMPOS C/PRINCIPAL URB LA HACIENDA",
+            "city": "GUAYAMA",
+            "zip": "00785"
+        },
+        "contactinfo": {
+            "tel": "787-864-4300",
+            "fax": "787-864-4466"
+        },
+        "location": {
+            "lat": 18.0383336,
+            "lng": -66.32531394
+        }
+    },
+    {
+        "name": "HOSP ANDRES GRILLASCA INC (CENTRO DE ONCOLOGICA AVANZADA)",
+        "address": {
+            "street": "PR-14 KM 4.2 AVE TITO CASTRO",
+            "city": "PONCE",
+            "zip": "00733-1324"
+        },
+        "contactinfo": {
+            "tel": "787-848-0800",
+            "fax": "787-843-2310"
+        },
+        "location": {
+            "lat": 18.08900651,
+            "lng": -66.78210383
+        }
+    },
+    {
+        "name": "HOSP DAMAS",
+        "address": {
+            "street": "PR-2 PONCE BY PASS",
+            "city": "PONCE",
+            "zip": "00717-1318"
+        },
+        "contactinfo": {
+            "tel": "787-840-8686",
+            "fax": "787-259-7364"
+        },
+        "location": {
+            "lat": 18.05274197,
+            "lng": -66.80176434
+        }
+    },
+    {
+        "name": "HOSP DR MANUEL DE LA PILA IGLESIAS",
+        "address": {
+            "street": "AVE LAS AMERICAS 2431",
+            "city": "PONCE",
+            "zip": "00733-1910"
+        },
+        "contactinfo": {
+            "tel": "787-848-5600",
+            "fax": "787-651-5875"
+        },
+        "location": {
+            "lat": 18.05944209,
+            "lng": -66.79523714
+        }
+    },
+    {
+        "name": "HOSP PSIQUIATRIA FORENSE DE PONCE",
+        "address": {
+            "street": "PR-14 KM 4.2",
+            "city": "PONCE",
+            "zip": "00731"
+        },
+        "contactinfo": {
+            "tel": "787-844-0101",
+            "fax": "787-842-2906"
+        },
+        "location": {
+            "lat": 18.09055855,
+            "lng": -66.78041819
+        }
+    },
+    {
+        "name": "HOSP SAN CRISTOBAL",
+        "address": {
+            "street": "PR-506",
+            "city": "PONCE",
+            "zip": "00731"
+        },
+        "contactinfo": {
+            "tel": "787-848-2100",
+            "fax": "787-848-1110"
+        },
+        "location": {
+            "lat": 18.09668169,
+            "lng": -66.73578279
+        }
+    },
+    {
+        "name": "HOSP METROPOLITANO DR TITO MATTEI",
+        "address": {
+            "street": "PR-128 KM 1.0",
+            "city": "YAUCO",
+            "zip": "00698-0068"
+        },
+        "contactinfo": {
+            "tel": "787-856-1000",
+            "fax": "787-856-4250"
+        },
+        "location": {
+            "lat": 18.08308319,
+            "lng": -67.03049363
+        }
+    },
+    {
+        "name": "HOSP EPISCOPAL SAN LUCAS 2",
+        "address": {
+            "street": "PR-14 AVE TITO CASTRO 917",
+            "city": "PONCE",
+            "zip": "00733-6810"
+        },
+        "contactinfo": {
+            "tel": "787-844-2080",
+            "fax": "787-844-3454"
+        },
+        "location": {
+            "lat": 18.03120341,
+            "lng": -66.59474837
+        }
+    },
+
+    {
+        "name": "HIMA SAN PABLO - BAYAMON",
+        "address": {
+            "street": "C/SANTA CRUZ 70",
+            "city": "BAYAMON",
+            "zip": "00960"
+        },
+        "contactinfo": {
+            "tel": "787-620-4747",
+            "fax": "787-620-9273"
+        },
+        "location": {
+            "lat": 18.39742537,
+            "lng": -66.14752306
+        }
+    },
+    {
+        "name": "HOSP HERMANOS MELENDEZ",
+        "address": {
+            "street": "PR-2 KM 11.7",
+            "city": "BAYAMON",
+            "zip": "00960"
+        },
+        "contactinfo": {
+            "tel": "787-620-8181",
+            "fax": "787-269-0085"
+        },
+        "location": {
+            "lat": 18.46270797,
+            "lng": -66.3787877
+        }
+    },
+    {
+        "name": "DOCTORS CENTER HOSPITAL- BAYAMON (ANT. MATILDES BRENES)",
+        "address": {
+            "street": "C/2 J-9 EXT HERMANOS DAVILA",
+            "city": "BAYAMON",
+            "zip": "00674-0532"
+        },
+        "contactinfo": {
+            "tel": "787-622-5420",
+            "fax": "787-622-5432"
+        },
+        "location": {
+            "lat": 18.46377078,
+            "lng": -66.38191531
+        }
+    },
+    {
+        "name": "HOSP UNIVERSITARIO DR RAMON RUIZ ARNAU",
+        "address": {
+            "street": "AVE LAUREL - URB SANTA JUANITA",
+            "city": "BAYAMON",
+            "zip": "00956"
+        },
+        "contactinfo": {
+            "tel": "787-787-5151",
+            "fax": "787-787-7979"
+        },
+        "location": {
+            "lat": 18.43344605,
+            "lng": -66.36985016
+        }
+    },
+    {
+        "name": "CENTRO DE SALUD INTEGRAL DE OROCOVIS",
+        "address": {
+            "street": "PR-155 AVE LUIS MUÃ‘OZ MARIN",
+            "city": "OROCOVIS",
+            "zip": "00720-2105"
+        },
+        "contactinfo": {
+            "tel": "787-867-6010",
+            "fax": "787-867-5210"
+        },
+        "location": {
+            "lat": 18.226651,
+            "lng": -66.39434514
+        }
+    },
+    {
+        "name": "HOSP GENERAL MENONITA - AIBONITO",
+        "address": {
+            "street": "C/JOSE C VAZQUEZ - SALIDA BO CAONILLA",
+            "city": "AIBONITO",
+            "zip": "00705"
+        },
+        "contactinfo": {
+            "tel": "787-735-8001",
+            "fax": "787-735-7172"
+        },
+        "location": {
+            "lat": 18.14335188,
+            "lng": -66.26178232
+        }
+    },
+    {
+        "name": "HIMA SAN PABLO - CAGUAS",
+        "address": {
+            "street": "LOTE 100 AVE MUNOZ MARIN URB MARIOLGA",
+            "city": "CAGUAS",
+            "zip": "00726-4980"
+        },
+        "contactinfo": {
+            "tel": "787-653-3434",
+            "fax": "787-653-1799"
+        },
+        "location": {
+            "lat": 18.28558005,
+            "lng": -66.2521662
+        }
+    },
+    {
+        "name": "HOSP SAN JUAN BAUTISTA MEDICAL CENTER",
+        "address": {
+            "street": "PR-172 URB TURABO GARDENS (SALIDA 21)",
+            "city": "CAGUAS",
+            "zip": "00726-4964"
+        },
+        "contactinfo": {
+            "tel": "787-653-0550",
+            "fax": "787-653-4522"
+        },
+        "location": {
+            "lat": 18.28757812,
+            "lng": -66.26920492
+        }
+    },
+    {
+        "name": "HOSP GENERAL MENONITA - CAYEY",
+        "address": {
+            "street": "PR-14 KM 3.1 BO RINCON SECTOR LOMAS",
+            "city": "CAYEY",
+            "zip": "00737-3130"
+        },
+        "contactinfo": {
+            "tel": "787-535-1001",
+            "fax": "787-535-1014"
+        },
+        "location": {
+            "lat": 18.1240463,
+            "lng": -66.14748152
+        }
+    },
+    {
+        "name": "FIRST HOSP PANAMERICANO - CIDRA",
+        "address": {
+            "street": "PR-787 KM 1.5",
+            "city": "CIDRA",
+            "zip": "00739-1400"
+        },
+        "contactinfo": {
+            "tel": "787-739-5555",
+            "fax": "787-739-5544"
+        },
+        "location": {
+            "lat": 18.24134447,
+            "lng": -66.34905751
+        }
+    },
+    {
+        "name": "HIMA SAN PABLO - HUMACAO",
+        "address": {
+            "street": "AVE FONT MARTELO 3",
+            "city": "HUMACAO",
+            "zip": "00792"
+        },
+        "contactinfo": {
+            "tel": "787-656-2424",
+            "fax": "787-961-4521"
+        },
+        "location": {
+            "lat": 18.22229504,
+            "lng": -66.05810511
+        }
+    },
+
+    {
+        "name": "HOSP DR DOMINGUEZ INC",
+        "address": {
+            "street": "AVE FONT MARTELO 300",
+            "city": "HUMACAO",
+            "zip": "00791-0669"
+        },
+        "contactinfo": {
+            "tel": "787-852-0505",
+            "fax": "787-850-4230"
+        },
+        "location": {
+            "lat": 18.22534847,
+            "lng": -66.06178047
+        }
+    },
+    {
+        "name": "HOSP RYDER MEMORIAL INC",
+        "address": {
+            "street": "C/FONT MARTELO 355",
+            "city": "HUMACAO",
+            "zip": "00791-0859"
+        },
+        "contactinfo": {
+            "tel": "787-852-0768",
+            "fax": "787-852-0157"
+        },
+        "location": {
+            "lat": 18.145426,
+            "lng": -65.832321
+        }
+    },
+    {
+        "name": "HOSP UPR CAROLINA",
+        "address": {
+            "street": "PR-3 KM 8.1 AVE 65 INF",
+            "city": "CAROLINA",
+            "zip": "00984"
+        },
+        "contactinfo": {
+            "tel": "787-757-1800",
+            "fax": "787-276-2205"
+        },
+        "location": {
+            "lat": 18.3884717,
+            "lng": -65.97189867
+        }
+    },
+    {
+        "name": "ADMINISTRACION DE SERVICIOS MEDICOS DE PR (ASEM)",
+        "address": {
+            "street": "CENTRO MEDICO",
+            "city": "SAN JUAN",
+            "zip": "00922-2129"
+        },
+        "contactinfo": {
+            "tel": "787-777-3535",
+            "fax": "787-777-3702"
+        },
+        "location": {
+            "lat": 18.46317783,
+            "lng": -66.29394802
+        }
+    },
+    {
+        "name": "ASHFORD PRESBYTERIAN COMMUNITY HOSPITAL INC",
+        "address": {
+            "street": "AVE ASHFORD 1451",
+            "city": "SAN JUAN",
+            "zip": "00902-0032"
+        },
+        "contactinfo": {
+            "tel": "787-721-2160",
+            "fax": "787-723-3797"
+        },
+        "location": {
+            "lat": 18.52411444,
+            "lng": -66.28817369
+        }
+    },
+    {
+        "name": "HOSP DEL MAESTRO",
+        "address": {
+            "street": "C/SERGIO CUEVAS BUSTAMANTE 550",
+            "city": "SAN JUAN",
+            "zip": "00939-4708"
+        },
+        "contactinfo": {
+            "tel": "787-758-8383",
+            "fax": "787-751-2519"
+        },
+        "location": {
+            "lat": 18.41182194,
+            "lng": -66.06872207
+        }
+    },
+    {
+        "name": "CENTRO CARDIOVASCULAR DE PR Y CARIBE DR RAMON M SUAREZ",
+        "address": {
+            "street": "AVE AMERICO MIRANDA - ENTRADA PRINCIPAL CENTRO MEDICO",
+            "city": "SAN JUAN",
+            "zip": "00936-6528"
+        },
+        "contactinfo": {
+            "tel": "787-754-8500",
+            "fax": "787-999-0860"
+        },
+        "location": {
+            "lat": 18.46633605,
+            "lng": -66.29380865
+        }
+    },
+    {
+        "name": "HOSP INDUSTRIAL C.F.S.E.",
+        "address": {
+            "street": "CENTRO MEDICO",
+            "city": "SAN JUAN",
+            "zip": "00936-5028"
+        },
+        "contactinfo": {
+            "tel": "787-754-2525",
+            "fax": "787-767-3968"
+        },
+        "location": {
+            "lat": 18.46225853,
+            "lng": -66.29420436
+        }
+    },
+    {
+        "name": "HOSP PAVIA SANTURCE",
+        "address": {
+            "street": "C/ASIA Y C/PROF AUGUSTO RODRIGUEZ 1462",
+            "city": "SAN JUAN",
+            "zip": "00909-2137"
+        },
+        "contactinfo": {
+            "tel": "787-641-1616",
+            "fax": "787-727-7500"
+        },
+        "location": {
+            "lat": 18.51263506,
+            "lng": -66.29179957
+        }
+    },
+    {
+        "name": "HOSP PAVIA DE HATO REY",
+        "address": {
+            "street": "AVE PONCE DE LEON 435",
+            "city": "SAN JUAN",
+            "zip": "00919-0828"
+        },
+        "contactinfo": {
+            "tel": "787-754-0909",
+            "fax": "787-281-0476"
+        },
+        "location": {
+            "lat": 18.48734171,
+            "lng": -66.27861429
+        }
+    },
+    {
+        "name": "SAN JORGE CHILDRENS HOSPITAL",
+        "address": {
+            "street": "AVE SAN JORGE 268",
+            "city": "SAN JUAN",
+            "zip": "00914"
+        },
+        "contactinfo": {
+            "tel": "787-727-1000",
+            "fax": "787-268-3610"
+        },
+        "location": {
+            "lat": 18.4471351,
+            "lng": -66.06293602
+        }
+    },
+    {
+        "name": "HOSP PEDIATRICO UNIVERSITARIO DR ANTONIO ORTIZ",
+        "address": {
+            "street": "CENTRO MEDICO",
+            "city": "SAN JUAN",
+            "zip": "00919-1079"
+        },
+        "contactinfo": {
+            "tel": "787-777-3535",
+            "fax": "787-756-8907"
+        },
+        "location": {
+            "lat": 18.46490583,
+            "lng": -66.29347965
+        }
+    },
+    {
+        "name": "HOSP PSIQUIATRICO DR RAMON FERNANDEZ MARINA",
+        "address": {
+            "street": "CENTRO MEDICO",
+            "city": "SAN JUAN",
+            "zip": "00922"
+        },
+        "contactinfo": {
+            "tel": "787-766-4646",
+            "fax": "787-296-2410"
+        },
+        "location": {
+            "lat": 18.39059352,
+            "lng": -66.07592976
+        }
+    },
+    {
+        "name": "HOSP SAN FRANCISCO",
+        "address": {
+            "street": "AVE DE DIEGO 371",
+            "city": "SAN JUAN",
+            "zip": "00929-0025"
+        },
+        "contactinfo": {
+            "tel": "787-767-5100",
+            "fax": "787-250-7829"
+        },
+        "location": {
+            "lat": 18.39876597,
+            "lng": -66.0390983
+        }
+    },
+    {
+        "name": "HOSP SAN GERARDO",
+        "address": {
+            "street": "PR-844 KM 0.5",
+            "city": "SAN JUAN",
+            "zip": "00926-6023"
+        },
+        "contactinfo": {
+            "tel": "787-761-8383",
+            "fax": "787-748-2065"
+        },
+        "location": {
+            "lat": 18.41510982,
+            "lng": -66.26106764
+        }
+    },
+    {
+        "name": "HOSP UNIVERSITARIO DE ADULTOS",
+        "address": {
+            "street": "CENTRO MEDICO",
+            "city": "SAN JUAN",
+            "zip": "00922-2116"
+        },
+        "contactinfo": {
+            "tel": "787-754-0101",
+            "fax": "787-294-3605"
+        },
+        "location": {
+            "lat": 18.46435919,
+            "lng": -66.29495464
+        }
+    },
+    {
+        "name": "HOSP METROPOLITANO DE SAN JUAN",
+        "address": {
+            "street": "PR-21 URB LAS LOMAS 1785",
+            "city": "SAN JUAN",
+            "zip": "00922"
+        },
+        "contactinfo": {
+            "tel": "787-782-9999",
+            "fax": "787-782-1723"
+        },
+        "location": {
+            "lat": 18.38990335,
+            "lng": -66.09826151
+        }
+    },
+    {
+        "name": "HOSP ONCOLOGICO DR ISAAC GONZALEZ MARTINEZ",
+        "address": {
+            "street": "CENTRO MEDICO",
+            "city": "SAN JUAN",
+            "zip": "00919-1811"
+        },
+        "contactinfo": {
+            "tel": "787-763-4149",
+            "fax": "787-751-7940"
+        },
+        "location": {
+            "lat": 18.46401757,
+            "lng": -66.29367547
+        }
+    },
+    {
+        "name": "CPC HOSP SAN JUAN CAPESTRANO",
+        "address": {
+            "street": "CARR PR-877 KM 1.6 CAMINO LAS LOMAS",
+            "city": "SAN JUAN",
+            "zip": "00926"
+        },
+        "contactinfo": {
+            "tel": "787-625-2900",
+            "fax": "787-760-6875"
+        },
+        "location": {
+            "lat": 18.386047,
+            "lng": -66.027672
+        }
+    },
+    {
+        "name": "SJ VETERANS ADMINISTRATION CARIBBEAN HEALTHCARE SYSTEM",
+        "address": {
+            "street": "C/CASIA 10",
+            "city": "SAN JUAN",
+            "zip": "00921"
+        },
+        "contactinfo": {
+            "tel": "787-641-7582",
+            "fax": "787-641-4582"
+        },
+        "location": {
+            "lat": 18.45912915,
+            "lng": -66.30073416
+        }
+    },
+    {
+        "name": "HOSP AUXILIO MUTUO",
+        "address": {
+            "street": "AVE PONCE DE LEON PDA 37.5",
+            "city": "SAN JUAN",
+            "zip": "00919-1227"
+        },
+        "contactinfo": {
+            "tel": "787-758-2000",
+            "fax": "787-771-7363"
+        },
+        "location": {
+            "lat": 18.40972704,
+            "lng": -66.05207392
+        }
+    },
+    {
+        "name": "HOSP MUNICIPAL DE SAN JUAN DR RAFAEL LOPEZ NUSSA",
+        "address": {
+            "street": "CENTRO MEDICO",
+            "city": "SAN JUAN",
+            "zip": "00936-8344"
+        },
+        "contactinfo": {
+            "tel": "787-766-2223",
+            "fax": "787-764-3643"
+        },
+        "location": {
+            "lat": 18.39503548,
+            "lng": -66.07465243
+        }
+    },
+    {
+        "name": "HEALTH SOUTH REHABILITATION OF PR",
+        "address": {
+            "street": "3ER PISO HOSP UNIVERSITARIO DE ADULTOS - CENTRO MEDICO",
+            "city": "SAN JUAN",
+            "zip": "00936-8344"
+        },
+        "contactinfo": {
+            "tel": "787-274-5100",
+            "fax": "787-274-5115"
+        },
+        "location": {
+            "lat": 18.46451991,
+            "lng": -66.29466746
+        }
+    },
+    {
+        "name": "HOSP PSIQUIATRICO CORRECCIONAL",
+        "address": {
+            "street": "C/TENIENTE CESAR GONZALEZ 1106",
+            "city": "SAN JUAN",
+            "zip": "00936-8344"
+        },
+        "contactinfo": {
+            "tel": "787-758-8019",
+            "fax": "787-771-4690"
+        },
+        "location": {
+            "lat": 18.4595939,
+            "lng": -66.29351289
+        }
+    },
+    {
+        "name": "CENTRO DE SALUD COMUNAL DE CULEBRA",
+        "address": {
+            "street": "C/WILLIAM FONT FINAL",
+            "city": "CULEBRA",
+            "zip": "00775"
+        },
+        "contactinfo": {
+            "tel": "787-742-3511",
+            "fax": "787-742-0176"
+        },
+        "location": {
+            "lat": 18.30281204,
+            "lng": -65.30304489
+        }
+    },
+    {
+        "name": "HIMA SAN PABLO - FAJARDO",
+        "address": {
+            "street": "PR-194 AVE GENERAL VALERO #404 PR-194",
+            "city": "FAJARDO",
+            "zip": "00738"
+        },
+        "contactinfo": {
+            "tel": "787-655-0505",
+            "fax": "787-655-5049"
+        },
+        "location": {
+            "lat": 18.41723698,
+            "lng": -65.9117133
+        }
+    },
+    {
+        "name": "HOSP CARRIBEAN MEDICAL CENTER",
+        "address": {
+            "street": "AVE OSVALDO MOLINA",
+            "city": "FAJARDO",
+            "zip": "00738-0846"
+        },
+        "contactinfo": {
+            "tel": "787-801-0081",
+            "fax": ""
+        },
+        "location": {
+            "lat": 18.336956,
+            "lng": -65.650612
+        }
+    },
+    {
+        "name": "CENTRO DE SALUD SUSANA CENTENO - VIEQUES",
+        "address": {
+            "street": "PR-997 KM H .1 C/ANTONIO G MELLADO FINAL",
+            "city": "VIEQUES",
+            "zip": "00765"
+        },
+        "contactinfo": {
+            "tel": "787-741-0392",
+            "fax": "787-741-2550"
+        },
+        "location": {
+            "lat": 18.22269457,
+            "lng": -65.69677848
+        }
+    },
+    {
+        "name": "DOCTORS' CENTER HOSP SAN JUAN INC",
+        "address": {
+            "street": "1395 C/SAN RAFAEL SANTURCE",
+            "city": "SAN JUAN",
+            "zip": "00910-3428"
+        },
+        "contactinfo": {
+            "tel": "787-723-2950",
+            "fax": "787-725-2124"
+        },
+        "location": {
+            "lat": 18.51392017,
+            "lng": -66.29572789
+        }
+    },
+    {
+        "name": "HOSP PSIQUIATRIA FORENSE DE RIO PIEDRAS",
+        "address": {
+            "street": "EDIFICIO C C/ MAGA BO. MONACILLOS- CENTRO MEDICO",
+            "city": "SAN JUAN",
+            "zip": "00928-1414"
+        },
+        "contactinfo": {
+            "tel": "787-758-8019",
+            "fax": "787-764-3657"
+        },
+        "location": {
+            "lat": 18.390791,
+            "lng": -66.07629755
+        }
+    }
+]

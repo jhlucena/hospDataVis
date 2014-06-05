@@ -3,7 +3,7 @@
 
     angular.module('recicla')
         .controller('HomeController', function($scope) {
-            $scope.message = 'Hello Dude!';
+            $scope.message = 'Hospital Vis';
         })
         .config(function($routeProvider) {
             $routeProvider.when('/', {
