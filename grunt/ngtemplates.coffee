@@ -1,7 +1,7 @@
 module.exports =
   build:
     options:
-      module: 'recicla'
+      module: 'hospDataVis'
       usemin: 'scripts/app.js'
     src: ['<%=files.public.js.templates%>']
     cwd: '<%=files.public.dir%>'

@@ -1,6 +1,6 @@
 module.exports =
   options:
-    port: process.env.PORT || 8080
+    port: process.env.PORT || 8088
   dev:
     options:
       script: 'server/server.js'

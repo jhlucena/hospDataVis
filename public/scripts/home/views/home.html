@@ -1,5 +1,6 @@
-<div class="jumbotron">
-    <div class="container">
-        <h1>{{message}}</h1>
+<div class="row">
+    {{ message }} {{ map.zoom }}
+    <div class="col-md-12" style="height: 400px">
+        <google-map center="map.center" zoom="map.zoom"></google-map>
     </div>
 </div>
